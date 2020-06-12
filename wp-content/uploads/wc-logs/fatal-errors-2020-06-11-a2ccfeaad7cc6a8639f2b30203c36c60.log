@@ -1,0 +1,6 @@
+2020-06-11T07:21:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xamppb\htdocs\remendios\wp-admin\includes\class-core-upgrader.php en la línea 408
+
+2020-06-11T07:29:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xamppb\htdocs\remendios\wp-admin\includes\class-wp-filesystem-direct.php en la línea 81
+
+2020-06-11T22:42:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xamppb\htdocs\remendios\wp-admin\includes\class-wp-filesystem-direct.php en la línea 66
+
